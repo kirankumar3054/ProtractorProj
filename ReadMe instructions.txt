@@ -15,3 +15,7 @@ Git:
 krudrangi@it-mbp-krudrangi (master) ~/eclipse-workspace/ProtractorProj:
 git config --global user.name "kirankumar3054@gmail.com"
 git config --global user.email "kirankumar3054@gmail.com"
+
+
+// to test Non-Angular application nee below line of cod
+browser.waitForAngularEnalbed(false);

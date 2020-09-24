@@ -2,6 +2,13 @@
 To start Protractor webDriver Manger:
 webdriver-manager start
 
+To execute Test cases, we need to trigger config file.
+krudrangi@it-mbp-krudrangi (master) ~/eclipse-workspace/ProtractorProj: protractor config/config.js
+
+
+
+
+// This project generates allure report after each execution.  The allure-results/ folder is added to git ignore - to not to add resulsts to git.
 
 
 Git:

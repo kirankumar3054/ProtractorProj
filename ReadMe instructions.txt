@@ -17,5 +17,5 @@ git config --global user.name "kirankumar3054@gmail.com"
 git config --global user.email "kirankumar3054@gmail.com"
 
 
-// to test Non-Angular application nee below line of cod
+// to test Non-Angular application need below line of code.
 browser.waitForAngularEnalbed(false);

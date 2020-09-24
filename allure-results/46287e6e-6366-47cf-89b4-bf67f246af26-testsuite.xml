@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1600777689247' stop='1600777697080'>
+    <name>Testing Super Calculator SPA which is made using NG</name>
+    <title>Testing Super Calculator SPA which is made using NG</title>
+    <test-cases>
+        <test-case start='1600777689247' status='passed' stop='1600777697079'>
+            <name>Numeric Addition Test:</name>
+            <title>Numeric Addition Test:</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
